@@ -6,6 +6,7 @@
     The classes aimed to use DOM in JavaScript, introducing knowledge about node, events and callback functions.
 
 
+![preview](./.github/preview.gif)
 ![preview](./.github/preview.png)
 
 🔗 [Click here to access](https://github.com/ElizandraMonteiro/BiscoitodaSorte.git)
