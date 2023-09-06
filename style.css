@@ -16,7 +16,7 @@ font-family: 'Montserrat', sans-serif; */
 }
 
 body {
-    background: linear-gradient(45deg, #190361, #c40e0e);
+    background: linear-gradient(45deg, #190361, #461591);
 	animation: gradient 10s ease infinite;
     background-size: 200% 200%;
 }
